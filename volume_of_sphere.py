@@ -9,3 +9,8 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... # Compute and print the volume for radius 30 and 40
 ... print("Volume of sphere with radius 30:", calculate_volume_of_sphere(30))
 ... print("Volume of sphere with radius 40:", calculate_volume_of_sphere(40))
+print("This update was made from the terminal.")
+
+
+
+
